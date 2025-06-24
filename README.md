@@ -2,4 +2,4 @@
 
 this project was created from local system.
 
-this project is created by Tomar.git 
+this project is created by Tomar.
